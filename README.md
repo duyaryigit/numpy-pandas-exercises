@@ -1,2 +1,2 @@
-# Data analysis exercises
+# Numpy and Pandas Exercises
 
