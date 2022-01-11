@@ -1,2 +1,2 @@
-# data-analysis-exercises
-Data analysis exercises
+# Data analysis exercises
+
